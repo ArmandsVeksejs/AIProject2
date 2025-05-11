@@ -30,7 +30,7 @@ git commit -m "Īss jūsu izmaiņu apraksts"
 
 ### 5. Augšupielādējiet uz GitHub
 ```
-git push origin funkcija/jusu-funkcijas-nosaukums
+git push -u origin funkcija/jusu-funkcijas-nosaukums
 ```
 
 ### 6. Iesniedziet izmaiņu pieprasījumu (Pull Request)
