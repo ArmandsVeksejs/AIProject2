@@ -1,5 +1,7 @@
 # Instrukcijas
 
+Lai Jupyter Notebook kods strādātu, bez papildu bibliotēlu instalācija ar "pip", var noldādēt Anaconda programmatūru, kas satur Jupyter Notebooks web-based vidi. Links priekš Anaconda: https://www.anaconda.com/download/success
+
 ## Programmēšanas sākšana projekta veicējiem
 
 ### 1. Lejupielādējiet projektu (Clone)
